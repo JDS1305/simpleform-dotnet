@@ -1,0 +1,34 @@
+C:/Users/natda/Documents/Self Project/SimpleFormNet/SimpleForm/bin/Debug/net7.0-windows/SimpleForm.exe
+C:/Users/natda/Documents/Self Project/SimpleFormNet/SimpleForm/bin/Debug/net7.0-windows/SimpleForm.deps.json
+C:/Users/natda/Documents/Self Project/SimpleFormNet/SimpleForm/bin/Debug/net7.0-windows/SimpleForm.runtimeconfig.json
+C:/Users/natda/Documents/Self Project/SimpleFormNet/SimpleForm/bin/Debug/net7.0-windows/SimpleForm.dll
+C:/Users/natda/Documents/Self Project/SimpleFormNet/SimpleForm/bin/Debug/net7.0-windows/SimpleForm.pdb
+C:/Users/natda/Documents/Self Project/SimpleFormNet/SimpleForm/obj/Debug/net7.0-windows/SimpleForm.csproj.AssemblyReference.cache
+C:/Users/natda/Documents/Self Project/SimpleFormNet/SimpleForm/obj/Debug/net7.0-windows/SimpleForm.Form1.resources
+C:/Users/natda/Documents/Self Project/SimpleFormNet/SimpleForm/obj/Debug/net7.0-windows/SimpleForm.csproj.GenerateResource.cache
+C:/Users/natda/Documents/Self Project/SimpleFormNet/SimpleForm/obj/Debug/net7.0-windows/SimpleForm.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/natda/Documents/Self Project/SimpleFormNet/SimpleForm/obj/Debug/net7.0-windows/SimpleForm.AssemblyInfoInputs.cache
+C:/Users/natda/Documents/Self Project/SimpleFormNet/SimpleForm/obj/Debug/net7.0-windows/SimpleForm.AssemblyInfo.cs
+C:/Users/natda/Documents/Self Project/SimpleFormNet/SimpleForm/obj/Debug/net7.0-windows/SimpleForm.csproj.CoreCompileInputs.cache
+C:/Users/natda/Documents/Self Project/SimpleFormNet/SimpleForm/obj/Debug/net7.0-windows/SimpleForm.dll
+C:/Users/natda/Documents/Self Project/SimpleFormNet/SimpleForm/obj/Debug/net7.0-windows/refint/SimpleForm.dll
+C:/Users/natda/Documents/Self Project/SimpleFormNet/SimpleForm/obj/Debug/net7.0-windows/SimpleForm.pdb
+C:/Users/natda/Documents/Self Project/SimpleFormNet/SimpleForm/obj/Debug/net7.0-windows/SimpleForm.genruntimeconfig.cache
+C:/Users/natda/Documents/Self Project/SimpleFormNet/SimpleForm/obj/Debug/net7.0-windows/ref/SimpleForm.dll
+/Users/ayuamelia/Documents/my-documents/lely/project-ilcs/simpleform-dotnet/bin/Debug/net7.0-windows/SimpleForm
+/Users/ayuamelia/Documents/my-documents/lely/project-ilcs/simpleform-dotnet/bin/Debug/net7.0-windows/SimpleForm.deps.json
+/Users/ayuamelia/Documents/my-documents/lely/project-ilcs/simpleform-dotnet/bin/Debug/net7.0-windows/SimpleForm.runtimeconfig.json
+/Users/ayuamelia/Documents/my-documents/lely/project-ilcs/simpleform-dotnet/bin/Debug/net7.0-windows/SimpleForm.dll
+/Users/ayuamelia/Documents/my-documents/lely/project-ilcs/simpleform-dotnet/bin/Debug/net7.0-windows/SimpleForm.pdb
+/Users/ayuamelia/Documents/my-documents/lely/project-ilcs/simpleform-dotnet/obj/Debug/net7.0-windows/SimpleForm.Form1.resources
+/Users/ayuamelia/Documents/my-documents/lely/project-ilcs/simpleform-dotnet/obj/Debug/net7.0-windows/SimpleForm.csproj.GenerateResource.cache
+/Users/ayuamelia/Documents/my-documents/lely/project-ilcs/simpleform-dotnet/obj/Debug/net7.0-windows/SimpleForm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayuamelia/Documents/my-documents/lely/project-ilcs/simpleform-dotnet/obj/Debug/net7.0-windows/SimpleForm.AssemblyInfoInputs.cache
+/Users/ayuamelia/Documents/my-documents/lely/project-ilcs/simpleform-dotnet/obj/Debug/net7.0-windows/SimpleForm.AssemblyInfo.cs
+/Users/ayuamelia/Documents/my-documents/lely/project-ilcs/simpleform-dotnet/obj/Debug/net7.0-windows/SimpleForm.csproj.CoreCompileInputs.cache
+/Users/ayuamelia/Documents/my-documents/lely/project-ilcs/simpleform-dotnet/obj/Debug/net7.0-windows/SimpleForm.sourcelink.json
+/Users/ayuamelia/Documents/my-documents/lely/project-ilcs/simpleform-dotnet/obj/Debug/net7.0-windows/SimpleForm.dll
+/Users/ayuamelia/Documents/my-documents/lely/project-ilcs/simpleform-dotnet/obj/Debug/net7.0-windows/refint/SimpleForm.dll
+/Users/ayuamelia/Documents/my-documents/lely/project-ilcs/simpleform-dotnet/obj/Debug/net7.0-windows/SimpleForm.pdb
+/Users/ayuamelia/Documents/my-documents/lely/project-ilcs/simpleform-dotnet/obj/Debug/net7.0-windows/SimpleForm.genruntimeconfig.cache
+/Users/ayuamelia/Documents/my-documents/lely/project-ilcs/simpleform-dotnet/obj/Debug/net7.0-windows/ref/SimpleForm.dll

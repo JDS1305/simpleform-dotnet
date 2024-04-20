@@ -1,0 +1,8 @@
+/Users/ayuamelia/Documents/my-documents/lely/project-ilcs/simpleform-dotnet/obj/Debug/net8.0/osx-arm64/SimpleForm.csproj.AssemblyReference.cache
+/Users/ayuamelia/Documents/my-documents/lely/project-ilcs/simpleform-dotnet/obj/Debug/net8.0/osx-arm64/SimpleForm.Form1.resources
+/Users/ayuamelia/Documents/my-documents/lely/project-ilcs/simpleform-dotnet/obj/Debug/net8.0/osx-arm64/SimpleForm.csproj.GenerateResource.cache
+/Users/ayuamelia/Documents/my-documents/lely/project-ilcs/simpleform-dotnet/obj/Debug/net8.0/osx-arm64/SimpleForm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayuamelia/Documents/my-documents/lely/project-ilcs/simpleform-dotnet/obj/Debug/net8.0/osx-arm64/SimpleForm.AssemblyInfoInputs.cache
+/Users/ayuamelia/Documents/my-documents/lely/project-ilcs/simpleform-dotnet/obj/Debug/net8.0/osx-arm64/SimpleForm.AssemblyInfo.cs
+/Users/ayuamelia/Documents/my-documents/lely/project-ilcs/simpleform-dotnet/obj/Debug/net8.0/osx-arm64/SimpleForm.csproj.CoreCompileInputs.cache
+/Users/ayuamelia/Documents/my-documents/lely/project-ilcs/simpleform-dotnet/obj/Debug/net8.0/osx-arm64/SimpleForm.sourcelink.json
